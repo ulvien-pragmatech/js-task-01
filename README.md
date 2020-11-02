@@ -2,7 +2,7 @@
 
 # Tapsiriq
 1. Bu repo fork edilmelidir. (https://medium.com/@noteCe/github-ile-fork-ve-pull-request-be6077342834)
-2. Elavedeki sekilde verilen registration formun html,css hisseleri yazilmalidir 
+2. Linkde verilen registration formun html,css hisseleri yazilmalidir  (Seklin linki : https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib-registration-form-4.jpg)
 3. Submit duymesine basilanda asagidaki yoxlamalar aparilmalidir.
   - Hec bir bolme bos olmamalidir (Eger bos olan hisse varsa formun mueyyen bir yerinde xeberdarliq mesaji verilmelidir (Numune : Bu sahe bos ola bilmez ))
   - Email bolmesininin hegigeten email olub olmadigi yoxlanilmalidir
