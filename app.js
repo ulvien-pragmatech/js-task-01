@@ -88,6 +88,14 @@ function checkInputs() {
     if (usernameSuccess == true && passwordSuccess == true && emailSuccess == true) {
         successModal.classList.add("d-block");
         successModal.classList.remove("d-none");
+        let infoName = document.getElementById("infoName");
+        let infoEmail = document.getElementById("infoEmail");
+        let infoPassword = document.getElementById("infoPassword");
+
+        infoName.innerText = "Username: " + usernameValue;
+        infoEmail.innerText = "Email: " + emailValue;
+        infoPassword.innerText = "Password: " + passwordValue;
+
     }
 }
 
