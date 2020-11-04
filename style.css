@@ -42,7 +42,7 @@ body {
     border-radius: 5px;
     z-index: 999;
     width: 500px;
-    height: 250px;
+    height: 350px;
     margin: 150px auto;
     padding: 20px;
     background-color: rgb(255, 255, 255);
@@ -51,7 +51,7 @@ body {
 .process-success p {
     font-size: 50px;
     color: rgb(125, 228, 156);
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     padding: 5px 42px;
 }
 
@@ -74,6 +74,13 @@ body {
 
 .process-success button:hover {
     background-color: rgb(81, 207, 119);
+}
+
+.info {
+    background: rgba(151, 151, 151, 0.541);
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .header {
